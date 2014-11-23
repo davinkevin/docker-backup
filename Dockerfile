@@ -3,4 +3,4 @@ MAINTAINER DAVIN Kevin <davin.kevin@gmail.com>
 
 RUN 	apt-get update \
 	&&	apt-get upgrade \
-	&&	apt-get install -y rsync
+	&&	apt-get install -y rsync mysql-client
